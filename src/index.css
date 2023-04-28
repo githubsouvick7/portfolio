@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Product Sans Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Product Sans Regular'), url('../src/fonts/ProductSans-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'The Suavity Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('The Suavity Regular'), url('../src/fonts/The Suavity.woff') format('woff');
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  color: #4F596E;
+  margin: 0;
+  font-family: 'Product Sans Regular';
+}
+
+::-webkit-scrollbar {
+  width: 1px;
+}
