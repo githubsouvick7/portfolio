@@ -4,7 +4,7 @@ import './ProjectTemplate.css';
 
 export default function ProjectTemplate(props) {
     var Projects = require('./Projects.json')
-    const [mySite, setMySite] = useState("https://react-snapdeal-clone-by-souvick.netlify.app/")
+    const [mySite, setMySite] = useState("https://snapdeal-clone-pi.vercel.app/")
 
     return (
         <>

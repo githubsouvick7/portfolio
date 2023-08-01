@@ -1,24 +1,17 @@
 [
     {
         "name": "Snapdeal Clone",
-        "link": "https://react-snapdeal-clone-by-souvick.netlify.app/",
+        "link": "https://snapdeal-clone-pi.vercel.app/",
         "tags": "ReactJs | CSS | Bootstrap | HTML ",
         "description": " Snapdeal Clone is a feature-rich web application that replicates the popular e-commerce platform Snapdeal, offering a seamless online shopping experience.",
-        "github": "https://github.com/githubsouvick7/Snapdeal-Clone-Using-React-.git"
+        "github": "https://github.com/githubsouvick7/Snapdeal_Clone.git"
     },
     {
         "name": "IMDB Clone",
-        "link": "https://react-imdb-by-souvick.netlify.app/",
+        "link": "https://imdb-clone-in-react.netlify.app/",
         "tags": "ReactJs | CSS | Bootstrap | HTML",
         "description": "This is an IMDB (Internet Movie Database) clone, a web application that allows users to browse and search for movies, view movie details. The application aims to replicate the core features and functionality of the popular IMDB website.",
-        "github": "https://github.com/githubsouvick7/IMDB-Clone-Using-React.git"
-    },
-    {
-        "name": "Reddit Clone",
-        "link": "https://reddit-clone-in-react-by-souvick.netlify.app/",
-        "tags": "ReactJs | CSS | Bootstrap | HTML",
-        "description": "As the name suggests, this clone project aims to create a Reddit clone using React.",
-        "github": "https://github.com/githubsouvick7/Reddit-Clone-Using-React.git"
+        "github": "https://github.com/githubsouvick7/IMDB_CLONE.git"
     },
     {
         "name": "Movie Search website",
@@ -26,6 +19,13 @@
         "tags": "ReactJs | CSS | Bootstrap | HTML",
         "description": "As the name suggests, this clone project aims to create a Movie search website using React. Where you can find more information about your movie.",
         "github": "https://github.com/githubsouvick7/Movie-Search-Website-Using-React.git"
+    },
+    {
+        "name": "Reddit Clone",
+        "link": "https://reddit-clone-in-react-by-souvick.netlify.app/",
+        "tags": "ReactJs | CSS | Bootstrap | HTML",
+        "description": "As the name suggests, this clone project aims to create a Reddit clone using React.",
+        "github": "https://github.com/githubsouvick7/Reddit-Clone-Using-React.git"
     },
     {
         "name": "Advance Notes Application",
