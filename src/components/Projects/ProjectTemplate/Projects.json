@@ -7,6 +7,13 @@
         "github": "https://github.com/githubsouvick7/Snapdeal_Clone.git"
     },
     {
+        "name": "YouTube Clone",
+        "link": "https://youtube-clone-nine-nu.vercel.app/",
+        "tags": "ReactJs | CSS | Tailwind CSS | HTML ",
+        "description": " Experience the ultimate video-sharing platform with our React-based YouTube clone. Seamlessly watch, upload, and engage with content in a familiar and dynamic user interface..",
+        "github": "https://github.com/githubsouvick7/Youtube-Clone"
+    },
+    {
         "name": "IMDB Clone",
         "link": "https://imdb-clone-in-react.netlify.app/",
         "tags": "ReactJs | CSS | Bootstrap | HTML",
@@ -17,7 +24,7 @@
         "name": "Movie Search website",
         "link": "https://monumental-kangaroo-d68116.netlify.app/",
         "tags": "ReactJs | CSS | Bootstrap | HTML",
-        "description": "As the name suggests, this clone project aims to create a Movie search website using React. Where you can find more information about your movie.",
+        "description": "As the name suggests, this cloning project aims to create a Movie search website using React. Where you can find more information about your movie.",
         "github": "https://github.com/githubsouvick7/Movie-Search-Website-Using-React.git"
     },
     {
@@ -31,7 +38,7 @@
         "name": "Advance Notes Application",
         "link": "https://velvety-moxie-cbe2fc.netlify.app/",
         "tags": "HTML | CSS | Bootstrap | javascript ",
-        "description": "Advance notes App for creating note with search functionlity",
+        "description": "Advance notes App for creating note with search functionality",
         "github": "https://github.com/githubsouvick7/JsToDoList.git"
     },
     {
