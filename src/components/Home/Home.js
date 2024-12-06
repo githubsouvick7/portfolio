@@ -24,7 +24,7 @@ export default function Home() {
           </div>
 
           <div className='mb-5'>
-            <a className='myBtnLink' target="_blank" rel="noreferrer" href='https://drive.google.com/file/d/1olGGQ3CWeG4wTFwvmsd7Qu3Rq8VewzWc/view?usp=sharing'>
+            <a className='myBtnLink' target="_blank" rel="noreferrer" href='https://drive.google.com/file/d/1gvqrjhxPxQ4gxFazvlf2mIH3ruR49_3D/view?usp=drivesdk'>
               <button className="btn myBtn">Resume</button>
             </a>
           </div>
